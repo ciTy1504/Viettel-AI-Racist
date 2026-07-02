@@ -106,7 +106,6 @@ for m in kb.search_diagnosis("gastro-esophageal reflux"):
 
 ## 6. Việc tiếp theo
 
-- [ ] Tải và tích hợp `data/test/input/*.txt` vào pipeline chấm điểm nội bộ (theo công thức `final_score = 0.3·text_score + 0.3·assertions_score + 0.4·candidates_score`).
 - [ ] Xây module NER/LLM trích xuất khái niệm (`TRIỆU_CHỨNG`, `TÊN_XÉT_NGHIỆM`, `KẾT_QUẢ_XÉT_NGHIỆM`, `CHẨN_ĐOÁN`, `THUỐC`) + vị trí ký tự trong văn bản.
 - [ ] Module suy luận assertion (`isNegated`, `isFamily`, `isHistorical`) theo ngữ cảnh câu.
 - [ ] Nâng cấp `search_drug`/`search_diagnosis` từ substring-match sang fuzzy/embedding search để tăng recall candidate.
