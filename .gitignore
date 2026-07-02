@@ -1,0 +1,9 @@
+.claude
+
+# Du lieu tho va da xu ly (dung lai duoc bang scripts/build_knowledge_base.py, khong can version control)
+# RxNorm can tai khoan UMLS rieng cua tung nguoi, khong duoc redistribute file goc.
+data/raw/
+data/processed/
+
+__pycache__/
+*.pyc
