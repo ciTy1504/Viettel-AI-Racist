@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Lý do nhập viện: đến khám vì tăng calci máu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      246,
+      289
+    ]
+  },
+  {
+    "text": "Triệu chứng hiện tại: tăng calci máu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      294,
+      330
+    ]
+  },
+  {
+    "text": "đã dùng Laxis 20mg",
+    "type": "THUỐC",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      1433,
+      1451
+    ]
+  },
+  {
+    "text": "Truyền  dịch Natriclori 0.9 %",
+    "type": "THUỐC",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      1473,
+      1502
+    ]
+  }
+]

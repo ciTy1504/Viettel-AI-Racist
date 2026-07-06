@@ -1,0 +1,36 @@
+[
+  {
+    "text": "dose decreased from 5mg bid",
+    "type": "THUỐC",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      242,
+      269
+    ]
+  },
+  {
+    "text": "*   Lý do nhập viện: Suy thận ngày càng nặng\n    *   Thời điểm khởi phát triệu chứng: Muộn (creatinine  tăng cao)",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      365,
+      478
+    ]
+  },
+  {
+    "text": "*   Triệu chứng khi nhập viện: Suy thận ngày càng nặng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      1240,
+      1294
+    ]
+  }
+]

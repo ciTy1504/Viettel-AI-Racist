@@ -1,0 +1,23 @@
+[
+  {
+    "text": "dùng guaifenesin và furosemide 40 mg",
+    "type": "THUỐC",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      1482,
+      1518
+    ]
+  },
+  {
+    "text": "Khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1651,
+      1658
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "text": "Lý do nhập viện: Thủ thuật điện chọn\n    Triệu chứng hiện tại: triệu chứng liên quan đến tai biến mạch máu não từ vùng này",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      275,
+      397
+    ]
+  },
+  {
+    "text": "hẹp khoảng 65%",
+    "type": "THUỐC",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      580,
+      594
+    ]
+  },
+  {
+    "text": "tình trạng này bằng phẫu thuật nội mạch hóa động mạch cảnh",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      756,
+      814
+    ]
+  },
+  {
+    "text": "khoảng 65%",
+    "type": "THUỐC",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      913,
+      923
+    ]
+  }
+]

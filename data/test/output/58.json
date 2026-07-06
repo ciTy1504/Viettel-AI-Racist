@@ -1,0 +1,46 @@
+[
+  {
+    "text": "Lý do nhập viện\n    - yếu sức nửa người bên phải\n    - tình trạng tri giác giảm sút\n    - nhìn song thị",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      128,
+      231
+    ]
+  },
+  {
+    "text": "Thời điểm khởi phát triệu chứng\n    - Thời gian: khoảng 11:00 sáng\n    - Khởi phát cấp tính hay từ từ: Không ghi rõ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      236,
+      351
+    ]
+  },
+  {
+    "text": "mệt mỏi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      1466,
+      1473
+    ]
+  },
+  {
+    "text": "mệt mỏi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      1772,
+      1779
+    ]
+  }
+]

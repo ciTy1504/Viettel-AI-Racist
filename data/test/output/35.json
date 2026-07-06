@@ -1,0 +1,35 @@
+[
+  {
+    "text": "Lý do nhập viện\n    - Toàn trạng suy kiệt  kể từ khi xuất viện\n    - ảo giác dai dẳng\n    - Lú lẫn ngày càng nặng\n    Thời điểm khởi phát triệu chứng: Cực kỳ yếu kể từ khi xuất viện",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      454,
+      635
+    ]
+  },
+  {
+    "text": "nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      873,
+      876
+    ]
+  },
+  {
+    "text": "Nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      884,
+      887
+    ]
+  }
+]

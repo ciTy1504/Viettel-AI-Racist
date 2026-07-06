@@ -1,0 +1,35 @@
+[
+  {
+    "text": "Lý do nhập viện: tiểu tiện không tự chủ và sa âm đạo",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      53,
+      105
+    ]
+  },
+  {
+    "text": "Thời điểm khởi phát triệu chứng: khoảng vài năm",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      106,
+      153
+    ]
+  },
+  {
+    "text": "Triệu chứng hiện tại\n- tiểu tiện không tự chủ\n- sa âm đạo\n- bàng quang căng,\n- cảm giác bí tiếu liên tục",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      154,
+      258
+    ]
+  }
+]

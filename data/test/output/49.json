@@ -1,0 +1,31 @@
+[
+  {
+    "text": "Lý do nhập viện",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      0,
+      15
+    ]
+  },
+  {
+    "text": "Táo bón",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      715,
+      722
+    ]
+  },
+  {
+    "text": "ho",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1077,
+      1079
+    ]
+  }
+]

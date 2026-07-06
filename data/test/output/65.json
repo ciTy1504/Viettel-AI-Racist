@@ -1,0 +1,38 @@
+[
+  {
+    "text": "Lý do nhập viện: 3 ngày đại tiện ra máu đỏ tươi gián đoạn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      75,
+      132
+    ]
+  },
+  {
+    "text": "Thời điểm khởi phát triệu chứng: 3 ngày",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      133,
+      172
+    ]
+  },
+  {
+    "text": "chóng mặt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      232,
+      241
+    ]
+  },
+  {
+    "text": "chóng mặt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      334,
+      343
+    ]
+  }
+]

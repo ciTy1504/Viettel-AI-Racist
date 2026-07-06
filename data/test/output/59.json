@@ -1,0 +1,35 @@
+[
+  {
+    "text": "Lý do nhập viện: đau đầu kéo dài kèm theo mờ mắt\n    Thời điểm khởi phát triệu chứng: nhìn mờ tiến triển trong 2 tuần qua",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      686,
+      807
+    ]
+  },
+  {
+    "text": "Triệu chứng hiện tại\n    - đau đầu kéo dài\n    - nhìn mờ ở cả hai mắt, bên trái nặng hơn bên phải\n    -  cơn  đau đầu nhiều hơn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      1384,
+      1511
+    ]
+  },
+  {
+    "text": "Đặc điểm triệu chứng\n    - nhìn mờ: tiến triển trong 2 tuần qua, bên trái nặng hơn bên phải\n    - đau đầu: nhiều hơn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      1516,
+      1632
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "text": "Triệu chứng hiện tại\n    - khó khăn với hạ huyết áp, không đặc hiệu\n    - khó kiểm soát huyết áp đáng kể\n    - đi khập khiễng cách quãng\n    Sự kiện trước khi nhập viện: chụp cắt lớp vi tính (ct) được thực hiện cho thấy tắc hẹp 80% động mạch thận trái L",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      173,
+      426
+    ]
+  }
+]

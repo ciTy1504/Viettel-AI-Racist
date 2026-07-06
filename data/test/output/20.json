@@ -1,0 +1,35 @@
+[
+  {
+    "text": "Lý do nhập viện: ngã với gãy cổ xương đùi di lệch",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      626,
+      675
+    ]
+  },
+  {
+    "text": "Thời điểm khởi phát triệu chứng: Hôm qua",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      680,
+      720
+    ]
+  },
+  {
+    "text": "Đặc điểm triệu chứng\n    - Vị trí: hông phải\n    - Yếu tố làm nặng thêm: cử động, thay đổi tư thế",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      1005,
+      1102
+    ]
+  }
+]

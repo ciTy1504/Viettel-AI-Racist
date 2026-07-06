@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kế hoạch — AI Race 2026 Vòng 1</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;450;500;600&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#F5F7F6; --surface:#FFFFFF; --ink:#141E1D; --muted:#5B6B69;
+  --teal:#0F766E; --teal-soft:#E4F0EE; --amber:#B45309; --amber-soft:#FBF0E3;
+  --line:#E1E7E5; --line-strong:#C9D3D0;
+  --disp:'Space Grotesk',sans-serif; --body:'Inter',sans-serif; --mono:'JetBrains Mono',monospace;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);line-height:1.6;-webkit-font-smoothing:antialiased}
+.wrap{max-width:920px;margin:0 auto;padding:0 24px}
+.eyebrow{font-family:var(--mono);font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--teal);font-weight:500}
+
+header{padding:72px 0 48px;border-bottom:1px solid var(--line)}
+header .eyebrow{margin-bottom:18px}
+h1{font-family:var(--disp);font-weight:600;font-size:clamp(30px,5vw,46px);line-height:1.08;letter-spacing:-.02em;max-width:16ch}
+header p.lead{margin-top:20px;font-size:17px;color:var(--muted);max-width:56ch}
+.meta{display:flex;flex-wrap:wrap;gap:10px;margin-top:28px}
+.chip{font-family:var(--mono);font-size:12.5px;background:var(--surface);border:1px solid var(--line);border-radius:100px;padding:6px 13px;color:var(--ink)}
+.chip b{color:var(--teal);font-weight:600}
+
+section{padding:56px 0;border-bottom:1px solid var(--line)}
+h2{font-family:var(--disp);font-weight:600;font-size:26px;letter-spacing:-.01em;margin-bottom:8px}
+h2 .num{font-family:var(--mono);font-size:14px;color:var(--teal);font-weight:500;margin-right:12px;vertical-align:middle}
+.sub{color:var(--muted);font-size:15.5px;margin-bottom:28px;max-width:60ch}
+
+/* scoring meter */
+.meter{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:26px;margin-top:6px}
+.meter .bar{display:flex;height:56px;border-radius:9px;overflow:hidden;border:1px solid var(--line)}
+.meter .seg{display:flex;flex-direction:column;justify-content:center;padding:0 16px;color:#fff;font-family:var(--mono)}
+.seg .w{font-weight:600;font-size:18px}
+.seg .n{font-size:11.5px;opacity:.9}
+.s-text{background:#5B8F88;flex:3}
+.s-assert{background:#2F8579;flex:3}
+.s-cand{background:#0F766E;flex:4}
+.meter .legend{display:flex;gap:24px;margin-top:16px;flex-wrap:wrap;font-size:13.5px;color:var(--muted)}
+.meter .legend span{display:flex;align-items:center;gap:7px}
+.dot{width:10px;height:10px;border-radius:3px;display:inline-block}
+
+/* priority cards */
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:8px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:20px 22px}
+.card .tag{font-family:var(--mono);font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.card h3{font-family:var(--disp);font-weight:600;font-size:18px;margin:8px 0 6px}
+.card p{font-size:14.5px;color:var(--muted)}
+.card.hot{border-color:var(--teal);box-shadow:0 0 0 1px var(--teal) inset}
+.card.hot .tag{color:var(--teal)}
+
+/* timeline */
+.week{display:flex;gap:22px;padding:22px 0;border-top:1px solid var(--line)}
+.week:first-child{border-top:none}
+.week .when{flex:0 0 128px}
+.week .when .wk{font-family:var(--disp);font-weight:600;font-size:16px}
+.week .when .dt{font-family:var(--mono);font-size:12px;color:var(--muted);margin-top:2px}
+.week .body h4{font-family:var(--disp);font-weight:500;font-size:16px;margin-bottom:10px;color:var(--teal)}
+.week ul{list-style:none;display:flex;flex-direction:column;gap:7px}
+.week li{font-size:14.5px;padding-left:20px;position:relative;color:var(--ink)}
+.week li::before{content:'';position:absolute;left:2px;top:9px;width:6px;height:6px;border-radius:2px;background:var(--line-strong)}
+.week li b{font-weight:600}
+.week .goal{margin-top:12px;font-family:var(--mono);font-size:12.5px;background:var(--teal-soft);color:var(--teal);padding:6px 12px;border-radius:7px;display:inline-block}
+
+/* traps */
+.trap{display:flex;gap:16px;padding:18px 20px;background:var(--amber-soft);border:1px solid #F0DCC2;border-radius:11px;margin-bottom:12px}
+.trap .ic{font-family:var(--mono);font-weight:600;color:var(--amber);flex:0 0 auto;font-size:13px}
+.trap p{font-size:14.5px}
+.trap b{color:var(--amber)}
+
+code,.mono{font-family:var(--mono);font-size:.9em;background:#EEF2F1;padding:1px 6px;border-radius:5px}
+
+/* stack */
+.stack{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:14px;margin-top:8px}
+.stack .s{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:16px}
+.stack .s .l{font-family:var(--mono);font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
+.stack .s .v{font-family:var(--disp);font-weight:500;font-size:15px;margin-top:5px}
+.stack .s .d{font-size:13px;color:var(--muted);margin-top:4px}
+
+footer{padding:40px 0 64px;color:var(--muted);font-size:13.5px;font-family:var(--mono)}
+@media(max-width:640px){
+  .grid{grid-template-columns:1fr}
+  .week{flex-direction:column;gap:10px}
+  .week .when{flex:none}
+  .meter .seg{padding:0 10px}
+  .seg .n{display:none}
+}
+</style>
+</head>
+<body>
+
+<header>
+<div class="wrap">
+  <div class="eyebrow">AI Race 2026 · Vòng 1 sơ loại</div>
+  <h1>Kế hoạch chinh phục NER y tế + Linking RxNorm</h1>
+  <p class="lead">Bài toán không chỉ là trích xuất thuốc/triệu chứng. Với mỗi khái niệm phải trả 5 trường, và 70% điểm nằm ở phần <i>ngoài</i> NER: gán trạng thái ngữ cảnh và tra mã chuẩn RxNorm.</p>
+  <div class="meta">
+    <span class="chip">Hôm nay: <b>03/07</b></span>
+    <span class="chip">Hạn vòng 1: <b>30/07</b></span>
+    <span class="chip">Còn lại: <b>~27 ngày</b></span>
+    <span class="chip">Nộp: <b>5 lần/ngày</b></span>
+  </div>
+</div>
+</header>
+
+<section>
+<div class="wrap">
+  <div class="eyebrow" style="margin-bottom:14px">Trọng số điểm quyết định chiến lược</div>
+  <div class="meter">
+    <div class="bar">
+      <div class="seg s-text"><span class="w">0.3</span><span class="n">text / WER</span></div>
+      <div class="seg s-assert"><span class="w">0.3</span><span class="n">assertions</span></div>
+      <div class="seg s-cand"><span class="w">0.4</span><span class="n">candidates</span></div>
+    </div>
+    <div class="legend">
+      <span><i class="dot" style="background:#5B8F88"></i> <b>text+type</b> — phần NER thuần, dễ nhất</span>
+      <span><i class="dot" style="background:#2F8579"></i> <b>assertions</b> — suy luận ngữ cảnh, chủ yếu rule</span>
+      <span><i class="dot" style="background:#0F766E"></i> <b>candidates</b> — tra mã RxNorm, nặng điểm nhất</span>
+    </div>
+  </div>
+  <p class="sub" style="margin-top:20px;margin-bottom:0">Kết luận: NER giỏi tối đa chỉ mở trần 30%. Thắng thua nằm ở <b>dictionary RxNorm (40%)</b> và <b>rule assertion (30%)</b>. Ưu tiên đầu tư phải đảo ngược trực giác ban đầu.</p>
+</div>
+</section>
+
+<section>
+<div class="wrap">
+  <h2><span class="num">01</span>Bốn thành phần, ưu tiên ngược</h2>
+  <p class="sub">Mỗi entity trong output gồm <code>text</code>, <code>position</code>, <code>type</code>, <code>assertions</code>, <code>candidates</code>. Chia thành 3 bài con độc lập.</p>
+  <div class="grid">
+    <div class="card hot">
+      <div class="tag">40% · ưu tiên #1</div>
+      <h3>Candidates → RxCUI</h3>
+      <p>Entity linking về RxNorm. <code>amlodipine 10 mg</code> → <code>308135</code>. Không phải NER — là chuẩn hoá + tra KB. Không cần train model.</p>
+    </div>
+    <div class="card hot">
+      <div class="tag">30% · ưu tiên #2</div>
+      <h3>Assertions</h3>
+      <p><code>isHistorical</code>, <code>isNegated</code>, <code>isHypothetical</code>… Quyết định bởi section + từ phủ định. Rule-based + classifier nhẹ.</p>
+    </div>
+    <div class="card">
+      <div class="tag">30% · điều kiện cần</div>
+      <h3>Text + Position</h3>
+      <p>Span <code>[start,end]</code> đúng offset, chấm bằng WER. Rớt entity nào là mất luôn assertion + candidate của nó.</p>
+    </div>
+    <div class="card">
+      <div class="tag">nằm trong text</div>
+      <h3>Type</h3>
+      <p>THUỐC / TRIỆU_CHỨNG / CHẨN_ĐOÁN. Đúng chữ nhưng sai loại bị phạt <b>tính 0 hai lần</b>.</p>
+    </div>
+  </div>
+</div>
+</section>
+
+<section>
+<div class="wrap">
+  <h2><span class="num">02</span>Lộ trình 4 tuần</h2>
+  <p class="sub">Nguyên tắc: có <b>harness chấm điểm local</b> trước mọi thứ khác — chỉ 5 lần nộp/ngày nên không được phí lượt để dò điểm.</p>
+
+  <div class="week">
+    <div class="when"><div class="wk">Tuần 1</div><div class="dt">03 – 09/07</div></div>
+    <div class="body">
+      <h4>Nền tảng & baseline</h4>
+      <ul>
+        <li>Tải data công khai, <b>EDA</b>: đếm tập <code>type</code>, tập <code>assertions</code> thực tế, phân bố số <code>candidates</code>/entity, tỉ lệ trường rỗng.</li>
+        <li>Cài lại <b>chính xác metric BTC</b> chạy offline (WER + Jaccard + công thức trọng số) → làm bộ đánh giá local.</li>
+        <li>Build <b>dictionary RxNorm</b> từ <code>RXNCONSO.RRF</code>: chuẩn hoá tên+liều+dạng → RxCUI.</li>
+        <li>Baseline: regex bắt dòng thuốc + tra dict + rule <code>isHistorical</code> theo section.</li>
+      </ul>
+      <span class="goal">▸ Mốc: nộp lần đầu, có điểm số thật để so sánh</span>
+    </div>
+  </div>
+
+  <div class="week">
+    <div class="when"><div class="wk">Tuần 2</div><div class="dt">10 – 16/07</div></div>
+    <div class="body">
+      <h4>Vắt điểm phần 40% — Linking</h4>
+      <ul>
+        <li>Match đa tầng: exact → normalized → fuzzy (<code>RapidFuzz</code>) → fallback ingredient-level.</li>
+        <li>Parser liều/dạng/đường dùng để lên đúng mức <b>SCD/SBD</b>, không dừng ở ingredient.</li>
+        <li>Chiến lược trả 1 mã chắc vs. nhiều candidate — quyết định theo EDA + thử trên harness.</li>
+        <li>Nâng NER: encoder BIO (<code>XLM-R</code>/<code>mDeBERTa</code>) nếu regex chưa đủ, giữ position tuyệt đối.</li>
+      </ul>
+      <span class="goal">▸ Mốc: candidates_score tăng rõ trên local</span>
+    </div>
+  </div>
+
+  <div class="week">
+    <div class="when"><div class="wk">Tuần 3</div><div class="dt">17 – 23/07</div></div>
+    <div class="body">
+      <h4>Assertions & error analysis</h4>
+      <ul>
+        <li>Hoàn thiện rule assertion theo section header + cửa sổ ngữ cảnh phủ định.</li>
+        <li>Classifier nhẹ cho ca mơ hồ; đo trên harness xem có hơn rule thuần không.</li>
+        <li><b>Error analysis</b> theo từng thành phần: tìm nhóm lỗi lớn nhất mà kéo điểm.</li>
+        <li>Cân nhắc chính sách "để rỗng khi không chắc" (J=1 nếu cả hai rỗng).</li>
+      </ul>
+      <span class="goal">▸ Mốc: cả 3 điểm thành phần ổn định</span>
+    </div>
+  </div>
+
+  <div class="week">
+    <div class="when"><div class="wk">Tuần 4</div><div class="dt">24 – 30/07</div></div>
+    <div class="body">
+      <h4>Về đích & chuẩn bị reproduction</h4>
+      <ul>
+        <li>Tối ưu cuối, dùng hết ngân sách nộp một cách kỷ luật theo harness.</li>
+        <li><b>Đóng gói source cho top ~15</b>: toàn bộ code, data, model weights, README cài đặt.</li>
+        <li>Cố định seed, kiểm tra dựng lại từ máy sạch — BTC loại nếu không cài được.</li>
+        <li>Nộp bản tốt nhất, chừa lượt dự phòng cho ngày cuối.</li>
+      </ul>
+      <span class="goal">▸ Mốc: bài nộp cuối + gói reproduction sẵn sàng</span>
+    </div>
+  </div>
+</div>
+</section>
+
+<section>
+<div class="wrap">
+  <h2><span class="num">03</span>Bẫy điểm phải né</h2>
+  <p class="sub">Những điều trong đề mà nếu bỏ qua sẽ mất điểm oan.</p>
+  <div class="trap">
+    <div class="ic">TYPE</div>
+    <p>Đúng <code>text</code> nhưng sai <code>type</code> bị tính là khái niệm mới → <b>0 điểm ở cả 3 metric, tính 2 lần</b>. Ưu tiên phân loại type thật chắc.</p>
+  </div>
+  <div class="trap">
+    <div class="ic">EMPTY</div>
+    <p>Nếu ground truth rỗng và mình cũng để rỗng thì <b>J = 1</b>. Đoán bừa candidate cho triệu chứng → phá điểm. Với entity không chắc có mã, thà để trống.</p>
+  </div>
+  <div class="trap">
+    <div class="ic">SCD</div>
+    <p>RxCUI phụ thuộc <b>mức khái niệm</b>: ingredient khác thuốc-đủ-liều-dạng. Phải map tới SCD/SBD, không dừng ở tên hoạt chất.</p>
+  </div>
+  <div class="trap">
+    <div class="ic">REPRO</div>
+    <p>Top ~15 phải nộp source để BTC dựng lại trên private test. Code bẩn / không cài được = loại. Viết README và cố định seed <b>từ đầu</b>, không để cuối.</p>
+  </div>
+</div>
+</section>
+
+<section>
+<div class="wrap">
+  <h2><span class="num">04</span>Stack đề xuất</h2>
+  <p class="sub">Python xuyên suốt. Ưu tiên thành phần không-cần-train cho phần nặng điểm.</p>
+  <div class="stack">
+    <div class="s"><div class="l">Linking · 40%</div><div class="v">RxNorm RRF + RapidFuzz</div><div class="d">Dictionary + fuzzy, không train</div></div>
+    <div class="s"><div class="l">NER · 30%</div><div class="v">Regex + XLM-R BIO</div><div class="d">Rule cho template, model cho phần trôi</div></div>
+    <div class="s"><div class="l">Assertions · 30%</div><div class="v">Rule + classifier nhẹ</div><div class="d">Section + phủ định</div></div>
+    <div class="s"><div class="l">Đánh giá</div><div class="v">Harness metric local</div><div class="d">Tái hiện đúng công thức BTC</div></div>
+    <div class="s"><div class="l">Generative (tùy chọn)</div><div class="v">Qwen2.5-7B LoRA</div><div class="d">Tự fine-tune trên data BTC, ép position sau</div></div>
+  </div>
+</div>
+</section>
+
+<footer>
+<div class="wrap">
+  Kế hoạch AI Race 2026 · Vòng 1 · bản nháp làm việc — điều chỉnh sau khi EDA data công khai.
+</div>
+</footer>
+
+</body>
+</html>

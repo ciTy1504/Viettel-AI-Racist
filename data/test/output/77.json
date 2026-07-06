@@ -1,0 +1,29 @@
+[
+  {
+    "text": "ho",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      821,
+      823
+    ]
+  },
+  {
+    "text": "lo âu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1100,
+      1105
+    ]
+  },
+  {
+    "text": "- Hiện đang được chăm sóc tâm thần bởi bác sĩ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1185,
+      1230
+    ]
+  }
+]

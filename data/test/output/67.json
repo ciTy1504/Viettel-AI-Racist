@@ -1,0 +1,13 @@
+[
+  {
+    "text": "Triệu chứng hiện tại: đau vùng hạ sườn phải",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      134,
+      177
+    ]
+  }
+]

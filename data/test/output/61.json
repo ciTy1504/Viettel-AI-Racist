@@ -1,0 +1,46 @@
+[
+  {
+    "text": "Lý do nhập viện: Tái khám vì đau đầu gối phải",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      173,
+      218
+    ]
+  },
+  {
+    "text": "Thời điểm khởi phát triệu chứng\n    - Thời gian khởi phát: cách đây vài tháng (đối với lần khám  trước)\n    - Khởi phát cấp tính hay dần dần: Không ghi rõ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      223,
+      377
+    ]
+  },
+  {
+    "text": "Triệu chứng hiện tại: đau đầu gối phải",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      587,
+      625
+    ]
+  },
+  {
+    "text": "ho",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      844,
+      846
+    ]
+  }
+]

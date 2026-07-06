@@ -1,0 +1,46 @@
+[
+  {
+    "text": "Lý do nhập viện: ảo giác",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      346,
+      370
+    ]
+  },
+  {
+    "text": "Thời điểm khởi phát triệu chứng: Khoảng một tháng trước",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      375,
+      430
+    ]
+  },
+  {
+    "text": "Triệu chứng hiện tại: ảo giác",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      897,
+      926
+    ]
+  },
+  {
+    "text": "Đặc điểm triệu chứng\n Bệnh nhân nhìn/nghe thấy có nhiều người (đôi khi tổng cộng khoảng 8 người).\nThấy những người này đang nói chuyện với mình.",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      931,
+      1075
+    ]
+  }
+]

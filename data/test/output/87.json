@@ -1,0 +1,24 @@
+[
+  {
+    "text": "Lý do nhập viện:  tổn thương chi dưới do tự tử không thành\n    Theo lời người nhà kể lại bệnh nhân bị sốc khi chia tay bạn trai cũ, bị bạn bè trêu chọc, buồn chán, uống nhiều rượu,hút cần sa. Sau đó lái xe đến một cây cầu, nhảy từ trên cầu xuống  bệnh nhân nhảy cầu tự tử, sau đó tổn thương chi dưới , vào viện",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      161,
+      471
+    ]
+  },
+  {
+    "text": ":\n Đã phẫu thuật cắt cụt chân trái trên gối và chân phải dưới gối.\nDùng kháng sinh tĩnh mạch.\n\nCó ý định điều trị và lắp chân giả\nBệnh nhân suy nghĩ tích cực nghĩ cho tương lai ( nói rằng uộc sống không dừng lại vì một chấn thương từ bên ngoài)\n Diễn biến ổn định và được chuyển vào khoa tâm thần nội trú.",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      871,
+      1176
+    ]
+  }
+]

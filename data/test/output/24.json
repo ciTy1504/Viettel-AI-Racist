@@ -1,0 +1,35 @@
+[
+  {
+    "text": "Triệu chứng Bắt đầu\n    - sau khi xuất viện\n    - ống dẫn lưu JP được rút vào ngày DD MM\n    - bắt đầu có hiện tượng sưng nề đau khi sờ nắn trên vùng da kèm theo ban đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      316,
+      484
+    ]
+  },
+  {
+    "text": "chóng mặt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      1016,
+      1025
+    ]
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1038,
+      1041
+    ]
+  }
+]

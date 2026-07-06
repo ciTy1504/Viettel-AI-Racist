@@ -1,0 +1,22 @@
+[
+  {
+    "text": "Thời điểm khởi phát triệu chứng: giữa",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      53,
+      90
+    ]
+  },
+  {
+    "text": "Các triệu chứng hiện tại\n- vàng da không đau\n- ngứa",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      91,
+      142
+    ]
+  }
+]

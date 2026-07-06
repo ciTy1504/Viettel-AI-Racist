@@ -1,0 +1,36 @@
+[
+  {
+    "text": "mệt mỏi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      311,
+      318
+    ]
+  },
+  {
+    "text": "ho",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      320,
+      322
+    ]
+  },
+  {
+    "text": "Ceftriaxone 1 g",
+    "type": "THUỐC",
+    "candidates": [
+      "309090",
+      "1665020",
+      "337560"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      1291,
+      1306
+    ]
+  }
+]

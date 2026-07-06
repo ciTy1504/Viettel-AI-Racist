@@ -1,0 +1,24 @@
+[
+  {
+    "text": "Lý do nhập viện: Không có lý do khám bệnh chính",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      380,
+      427
+    ]
+  },
+  {
+    "text": "Triệu chứng khi nhập viện\n- thiếu máu\n- phân và máu trong trực tràng (thỉnh thoảng)\n- viêm phổi thuỳ, không đặc hiệu\n- rung cuống nhĩ với đáp ứng thất nhanh\n- suy giảm huyết động\n- rối loạn cân bằng kiềm toan phối hợp\n- sưng, sưng nhẹ, đau nhẹ ở mắt cá chân trái (3 ngày)",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1605,
+      1876
+    ]
+  }
+]

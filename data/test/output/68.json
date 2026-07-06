@@ -1,0 +1,35 @@
+[
+  {
+    "text": "Lý do nhập viện: yếu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      158,
+      178
+    ]
+  },
+  {
+    "text": "Các triệu chứng hiện tại: yếu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      183,
+      212
+    ]
+  },
+  {
+    "text": "Đặc điểm triệu chứng: Vị trí: đáng chú ý nhất ở ngực",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      217,
+      269
+    ]
+  }
+]

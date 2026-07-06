@@ -1,0 +1,24 @@
+[
+  {
+    "text": "Lý do nhập viện: bệnh rễ thần kinh tuỷ sống ở ngón tay cái",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      57,
+      115
+    ]
+  },
+  {
+    "text": "Thời điểm khởi phát triệu chứng: vài năm\n    Triệu chứng hiện tại: bệnh rễ thần kinh tuỷ sống ở ngón tay cái",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      120,
+      228
+    ]
+  }
+]

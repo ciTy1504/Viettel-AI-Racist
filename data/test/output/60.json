@@ -1,0 +1,13 @@
+[
+  {
+    "text": "Triệu chứng hiện tại\n    - triệu chứng trào ngược",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      501,
+      550
+    ]
+  }
+]

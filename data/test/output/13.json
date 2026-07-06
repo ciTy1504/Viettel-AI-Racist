@@ -1,0 +1,35 @@
+[
+  {
+    "text": "Triệu chứng khi nhập viện\n    - tổn thương vùng âm hộ và mông bên phải\n    - Tổn thương cực kỳ đau đớn\n    - Tình trạng tổn thương dạng bóng nước ngày càng nặng\n    - Lan đến mông bên phải\n    - có dịch giống mủ có màu vàng  chảy ra từ tổn thương",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      1312,
+      1558
+    ]
+  },
+  {
+    "text": "Đặc điểm của triệu chứng\n    - Vị trí: âm hộ bên phải, mông bên phải\n    - Mức độ nghiêm trọng: cực kỳ đau đớn\n    - Thời gian: Tình trạng ngày càng nặng trong 5 ngày\n    - Các triệu chứng liên quan: ban đỏ, chảy mủ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      1563,
+      1778
+    ]
+  },
+  {
+    "text": "chẩn đoán Viêm mô tế bào\n    - Báo cáo có cải thiện một phần về ban đỏ\n    - dịch tiết có vẻ như mủ từ một số tổn thương vào ngày, nhưng tình trạng này đã tự khỏi\n    - Khám tại phòng khám vào ngày nhập viện\n    - Được giới thiệu đến Khoa Cấp cứu để đánh giá thêm\n    - Bệnh nhân kiên quyết muốn tiếp tục sử dụng doxycyclinebactrim cho khả năng Viêm mô tế bào\n    - Cảm thấy rằng cô ấy đã có cải thiện do những loại thuốc này và không muốn ngừng chúng cho đến khi được bác sĩ Truyền nhiễm khám",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1922,
+      2415
+    ]
+  }
+]

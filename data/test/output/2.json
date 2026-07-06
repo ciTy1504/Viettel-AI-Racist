@@ -1,0 +1,13 @@
+[
+  {
+    "text": "Triệu chứng hiện tại: hội chứng não gan",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      169,
+      208
+    ]
+  }
+]

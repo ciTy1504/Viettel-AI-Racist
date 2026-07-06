@@ -1,0 +1,29 @@
+[
+  {
+    "text": "đau bụng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      165,
+      173
+    ]
+  },
+  {
+    "text": "Triệu chứng hiện tại\n    - lower abdominal pain\n    - chảy máu nhiều",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      201,
+      269
+    ]
+  },
+  {
+    "text": "được cân nhắc: điều trị bảo tồn, điều trị nội khoa, can thiệp x-quang và điều trị ngoại khoa\n    - Bệnh nhân yêu cầu cắt bỏ u xơ tử cung qua đường bụng\n    - Tất cả các giấy tờ đồng ý đã được ký trước khi vào phòng mổ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      418,
+      635
+    ]
+  }
+]

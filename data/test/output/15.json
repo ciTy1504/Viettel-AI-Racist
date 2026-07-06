@@ -1,0 +1,13 @@
+[
+  {
+    "text": "chống đông",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      271,
+      281
+    ]
+  }
+]

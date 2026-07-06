@@ -1,0 +1,5078 @@
+{
+  "1": [
+    {
+      "text": "metoprolol 25mg po bid",
+      "type": "THUỐC",
+      "candidates": [
+        "866924",
+        "866426",
+        "1370489"
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        53,
+        75
+      ]
+    },
+    {
+      "text": "đánh trống ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        615,
+        630
+      ]
+    },
+    {
+      "text": "đánh trống ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        666,
+        681
+      ]
+    },
+    {
+      "text": "Khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        688,
+        695
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        700,
+        707
+      ]
+    },
+    {
+      "text": "đánh trống ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        787,
+        802
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        832,
+        839
+      ]
+    },
+    {
+      "text": "mệt mỏi",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        878,
+        885
+      ]
+    },
+    {
+      "text": "mệt mỏi",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        935,
+        942
+      ]
+    },
+    {
+      "text": "đánh trống ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1053,
+        1068
+      ]
+    },
+    {
+      "text": "đánh trống ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1084,
+        1099
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1121,
+        1128
+      ]
+    },
+    {
+      "text": "đánh trống ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1149,
+        1164
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1180,
+        1187
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isFamily",
+        "isHistorical"
+      ],
+      "position": [
+        1339,
+        1346
+      ]
+    },
+    {
+      "text": "đánh trống ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1362,
+        1377
+      ]
+    },
+    {
+      "text": "buồn nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1462,
+        1470
+      ]
+    },
+    {
+      "text": "nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1476,
+        1479
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1526,
+        1528
+      ]
+    }
+  ],
+  "2": [
+    {
+      "text": "Triệu chứng hiện tại: hội chứng não gan",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        169,
+        208
+      ]
+    }
+  ],
+  "3": [
+    {
+      "text": "bằng thuốc\nCác yếu tố nguy cơ liên quan: Hiện đang  hút thuốc",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        352,
+        413
+      ]
+    },
+    {
+      "text": "ngất xỉu",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        456,
+        464
+      ]
+    },
+    {
+      "text": "Thời điểm khởi phát triệu chứng: Hôm qua",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        465,
+        505
+      ]
+    },
+    {
+      "text": "ngất xỉu",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        533,
+        541
+      ]
+    },
+    {
+      "text": "đánh trống ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        696,
+        711
+      ]
+    },
+    {
+      "text": "chóng mặt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        739,
+        748
+      ]
+    },
+    {
+      "text": "buồn nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        757,
+        765
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        815,
+        817
+      ]
+    },
+    {
+      "text": "đau ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        867,
+        875
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        878,
+        885
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        901,
+        908
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        918,
+        925
+      ]
+    },
+    {
+      "text": "phù",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        936,
+        939
+      ]
+    },
+    {
+      "text": "đánh trống ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        954,
+        969
+      ]
+    },
+    {
+      "text": "ngất xỉu",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        972,
+        980
+      ]
+    },
+    {
+      "text": "ngất xỉu",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        1016,
+        1024
+      ]
+    },
+    {
+      "text": "chóng mặt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated",
+        "isFamily"
+      ],
+      "position": [
+        1332,
+        1341
+      ]
+    },
+    {
+      "text": "buồn nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated",
+        "isFamily"
+      ],
+      "position": [
+        1343,
+        1351
+      ]
+    },
+    {
+      "text": "đánh trống ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1353,
+        1368
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1370,
+        1372
+      ]
+    },
+    {
+      "text": "đau ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1375,
+        1383
+      ]
+    },
+    {
+      "text": "đau ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        1640,
+        1648
+      ]
+    },
+    {
+      "text": "phù",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        2459,
+        2462
+      ]
+    },
+    {
+      "text": "đánh trống ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        2500,
+        2515
+      ]
+    },
+    {
+      "text": "ngất xỉu",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        2611,
+        2619
+      ]
+    }
+  ],
+  "4": [
+    {
+      "text": "đau đầu gối (đã ngừng)\n    - omeprazole (bắt đầu dùng)",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        77,
+        131
+      ]
+    },
+    {
+      "text": "đau bụng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        871,
+        879
+      ]
+    },
+    {
+      "text": "Thời điểm khởi phát triệu chứng: Vài tuần",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        902,
+        943
+      ]
+    },
+    {
+      "text": "đau bụng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        979,
+        987
+      ]
+    },
+    {
+      "text": "buồn nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1031,
+        1039
+      ]
+    },
+    {
+      "text": "Nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1057,
+        1060
+      ]
+    },
+    {
+      "text": "đau bụng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1138,
+        1146
+      ]
+    },
+    {
+      "text": "buồn nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1372,
+        1380
+      ]
+    },
+    {
+      "text": "nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1393,
+        1396
+      ]
+    }
+  ],
+  "5": [
+    {
+      "text": "đau bụng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        260,
+        268
+      ]
+    },
+    {
+      "text": "Thời điểm khởi phát triệu chứng\n    - Tiền sử 1 ngày\n    - Khởi phát trong khi ăn tối",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        273,
+        358
+      ]
+    },
+    {
+      "text": "đau bụng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        387,
+        395
+      ]
+    },
+    {
+      "text": "buồn nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        417,
+        425
+      ]
+    },
+    {
+      "text": "sốt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        466,
+        469
+      ]
+    },
+    {
+      "text": "nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        480,
+        483
+      ]
+    },
+    {
+      "text": "táo bón",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        485,
+        492
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        494,
+        496
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        508,
+        510
+      ]
+    }
+  ],
+  "6": [],
+  "7": [
+    {
+      "text": "Lý do nhập viện: Bày tỏ tự tử với nhân viên khi xuất viện",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        376,
+        433
+      ]
+    },
+    {
+      "text": "chóng mặt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        516,
+        525
+      ]
+    },
+    {
+      "text": "chóng mặt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        840,
+        849
+      ]
+    },
+    {
+      "text": "toàn trong 24 g",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1176,
+        1191
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1653,
+        1655
+      ]
+    }
+  ],
+  "8": [],
+  "9": [
+    {
+      "text": "đau bụng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        165,
+        173
+      ]
+    },
+    {
+      "text": "Triệu chứng hiện tại\n    - lower abdominal pain\n    - chảy máu nhiều",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        201,
+        269
+      ]
+    },
+    {
+      "text": "được cân nhắc: điều trị bảo tồn, điều trị nội khoa, can thiệp x-quang và điều trị ngoại khoa\n    - Bệnh nhân yêu cầu cắt bỏ u xơ tử cung qua đường bụng\n    - Tất cả các giấy tờ đồng ý đã được ký trước khi vào phòng mổ",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        418,
+        635
+      ]
+    }
+  ],
+  "10": [
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        113,
+        115
+      ]
+    },
+    {
+      "text": "đau bụng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        126,
+        134
+      ]
+    },
+    {
+      "text": "tiêu chảy",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        142,
+        151
+      ]
+    }
+  ],
+  "11": [],
+  "12": [
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        230,
+        232
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        247,
+        249
+      ]
+    },
+    {
+      "text": "Sau đó 2 g",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        437,
+        447
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        562,
+        564
+      ]
+    },
+    {
+      "text": "mệt mỏi",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        571,
+        578
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        585,
+        587
+      ]
+    },
+    {
+      "text": "sốt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        663,
+        666
+      ]
+    },
+    {
+      "text": "Đau bụng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        685,
+        693
+      ]
+    },
+    {
+      "text": "- Được cho dùng levofloxacin vì nghi ngờ viêm phế quản do viêm phổi mắc phải cộng đồng ở bệnh nhân phức tạp,  cùng tylenol",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        860,
+        982
+      ]
+    }
+  ],
+  "13": [
+    {
+      "text": "Triệu chứng khi nhập viện\n    - tổn thương vùng âm hộ và mông bên phải\n    - Tổn thương cực kỳ đau đớn\n    - Tình trạng tổn thương dạng bóng nước ngày càng nặng\n    - Lan đến mông bên phải\n    - có dịch giống mủ có màu vàng  chảy ra từ tổn thương",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1312,
+        1558
+      ]
+    },
+    {
+      "text": "Đặc điểm của triệu chứng\n    - Vị trí: âm hộ bên phải, mông bên phải\n    - Mức độ nghiêm trọng: cực kỳ đau đớn\n    - Thời gian: Tình trạng ngày càng nặng trong 5 ngày\n    - Các triệu chứng liên quan: ban đỏ, chảy mủ",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1563,
+        1778
+      ]
+    },
+    {
+      "text": "chẩn đoán Viêm mô tế bào\n    - Báo cáo có cải thiện một phần về ban đỏ\n    - dịch tiết có vẻ như mủ từ một số tổn thương vào ngày, nhưng tình trạng này đã tự khỏi\n    - Khám tại phòng khám vào ngày nhập viện\n    - Được giới thiệu đến Khoa Cấp cứu để đánh giá thêm\n    - Bệnh nhân kiên quyết muốn tiếp tục sử dụng doxycyclinebactrim cho khả năng Viêm mô tế bào\n    - Cảm thấy rằng cô ấy đã có cải thiện do những loại thuốc này và không muốn ngừng chúng cho đến khi được bác sĩ Truyền nhiễm khám",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1922,
+        2415
+      ]
+    }
+  ],
+  "14": [
+    {
+      "text": "đau ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        69,
+        77
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        92,
+        99
+      ]
+    },
+    {
+      "text": "đau ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        123,
+        131
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        139,
+        146
+      ]
+    },
+    {
+      "text": "chóng mặt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        149,
+        158
+      ]
+    },
+    {
+      "text": "đau ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        182,
+        190
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        239,
+        246
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        324,
+        326
+      ]
+    },
+    {
+      "text": "chóng mặt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        330,
+        339
+      ]
+    },
+    {
+      "text": "hẹp 60%",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        574,
+        581
+      ]
+    },
+    {
+      "text": "hẹp 60%",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        749,
+        756
+      ]
+    }
+  ],
+  "15": [
+    {
+      "text": "chống đông",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        271,
+        281
+      ]
+    }
+  ],
+  "16": [
+    {
+      "text": "mệt mỏi",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        477,
+        484
+      ]
+    },
+    {
+      "text": "mệt mỏi",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        826,
+        833
+      ]
+    },
+    {
+      "text": "đau bụng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        927,
+        935
+      ]
+    },
+    {
+      "text": "mệt mỏi",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1021,
+        1028
+      ]
+    },
+    {
+      "text": "mệt mỏi",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1031,
+        1038
+      ]
+    },
+    {
+      "text": "đau bụng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        1071,
+        1079
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        1092,
+        1099
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        1115,
+        1117
+      ]
+    },
+    {
+      "text": "đau bụng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1222,
+        1230
+      ]
+    },
+    {
+      "text": "buồn nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1232,
+        1240
+      ]
+    },
+    {
+      "text": "nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1242,
+        1245
+      ]
+    },
+    {
+      "text": "tiêu chảy",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1247,
+        1256
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1258,
+        1260
+      ]
+    },
+    {
+      "text": "táo bón",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1263,
+        1270
+      ]
+    },
+    {
+      "text": "sốt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1321,
+        1324
+      ]
+    },
+    {
+      "text": "đau ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1326,
+        1334
+      ]
+    },
+    {
+      "text": "chóng mặt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1336,
+        1345
+      ]
+    },
+    {
+      "text": "đánh trống ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1347,
+        1362
+      ]
+    },
+    {
+      "text": "đau bụng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1375,
+        1383
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1384,
+        1386
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1423,
+        1425
+      ]
+    }
+  ],
+  "17": [
+    {
+      "text": "sốt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        135,
+        138
+      ]
+    },
+    {
+      "text": "sốt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        622,
+        625
+      ]
+    },
+    {
+      "text": "mệt mỏi",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isFamily"
+      ],
+      "position": [
+        686,
+        693
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isFamily"
+      ],
+      "position": [
+        696,
+        698
+      ]
+    },
+    {
+      "text": "- Đã thực hiện siêu âm vùng cổ phải  cho có kết qủa là  áp xe/viêm khớp nhiễm trùng\n- Dẫn lưu dịch\n- x-quang đề nghị mri\n- nhập viện tại  khoa cấp cứu để điều trị thêm, dùng kháng sinh tĩnh mạch và mri",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        867,
+        1068
+      ]
+    }
+  ],
+  "18": [
+    {
+      "text": "Thời điểm khởi phát triệu chứng: cấp tính",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        219,
+        260
+      ]
+    },
+    {
+      "text": "đau ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        292,
+        300
+      ]
+    },
+    {
+      "text": "đau ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        404,
+        412
+      ]
+    }
+  ],
+  "19": [
+    {
+      "text": "Giai đoạn IV",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        66,
+        78
+      ]
+    },
+    {
+      "text": "Lý do nhập viện: đau bẹn trái",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        447,
+        476
+      ]
+    },
+    {
+      "text": "Thời điểm khởi phát triệu chứng: 3 ngày trước",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        481,
+        526
+      ]
+    },
+    {
+      "text": "Triệu chứng hiện tại: đau bẹn trái",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        686,
+        720
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1011,
+        1013
+      ]
+    }
+  ],
+  "20": [
+    {
+      "text": "Lý do nhập viện: ngã với gãy cổ xương đùi di lệch",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        626,
+        675
+      ]
+    },
+    {
+      "text": "Thời điểm khởi phát triệu chứng: Hôm qua",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        680,
+        720
+      ]
+    },
+    {
+      "text": "Đặc điểm triệu chứng\n    - Vị trí: hông phải\n    - Yếu tố làm nặng thêm: cử động, thay đổi tư thế",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1005,
+        1102
+      ]
+    }
+  ],
+  "21": [],
+  "22": [
+    {
+      "text": "aspirin 325mg",
+      "type": "THUỐC",
+      "candidates": [
+        "317300",
+        "572393",
+        "574308"
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        75,
+        88
+      ]
+    }
+  ],
+  "23": [
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        2255,
+        2257
+      ]
+    }
+  ],
+  "24": [
+    {
+      "text": "Triệu chứng Bắt đầu\n    - sau khi xuất viện\n    - ống dẫn lưu JP được rút vào ngày DD MM\n    - bắt đầu có hiện tượng sưng nề đau khi sờ nắn trên vùng da kèm theo ban đỏ",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        316,
+        484
+      ]
+    },
+    {
+      "text": "chóng mặt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1016,
+        1025
+      ]
+    },
+    {
+      "text": "sốt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1038,
+        1041
+      ]
+    }
+  ],
+  "25": [],
+  "26": [
+    {
+      "text": "Lý do nhập viện: đến khám vì sau cân sau phẫu thuật",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        90,
+        141
+      ]
+    }
+  ],
+  "27": [
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        412,
+        419
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        455,
+        462
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        511,
+        513
+      ]
+    },
+    {
+      "text": "sốt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        532,
+        535
+      ]
+    },
+    {
+      "text": "đau ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        568,
+        576
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        590,
+        597
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        669,
+        676
+      ]
+    },
+    {
+      "text": "đánh trống ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        702,
+        717
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        730,
+        737
+      ]
+    },
+    {
+      "text": "đau ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated",
+        "isFamily"
+      ],
+      "position": [
+        789,
+        797
+      ]
+    }
+  ],
+  "28": [
+    {
+      "text": "sốt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        428,
+        431
+      ]
+    },
+    {
+      "text": "đau bụng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        435,
+        443
+      ]
+    },
+    {
+      "text": "đau bụng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        496,
+        504
+      ]
+    },
+    {
+      "text": "sốt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        560,
+        563
+      ]
+    },
+    {
+      "text": "sốt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1066,
+        1069
+      ]
+    },
+    {
+      "text": "đau bụng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1076,
+        1084
+      ]
+    },
+    {
+      "text": "sốt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1114,
+        1117
+      ]
+    },
+    {
+      "text": "buồn nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1388,
+        1396
+      ]
+    },
+    {
+      "text": "nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1398,
+        1401
+      ]
+    },
+    {
+      "text": "đau ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1437,
+        1445
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1447,
+        1454
+      ]
+    }
+  ],
+  "29": [
+    {
+      "text": "Lý do nhập viện: tiểu tiện không tự chủ và sa âm đạo",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        53,
+        105
+      ]
+    },
+    {
+      "text": "Thời điểm khởi phát triệu chứng: khoảng vài năm",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        106,
+        153
+      ]
+    },
+    {
+      "text": "Triệu chứng hiện tại\n- tiểu tiện không tự chủ\n- sa âm đạo\n- bàng quang căng,\n- cảm giác bí tiếu liên tục",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        154,
+        258
+      ]
+    }
+  ],
+  "30": [
+    {
+      "text": "Lý do nhập viện: ảo giác",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        346,
+        370
+      ]
+    },
+    {
+      "text": "Thời điểm khởi phát triệu chứng: Khoảng một tháng trước",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        375,
+        430
+      ]
+    },
+    {
+      "text": "Triệu chứng hiện tại: ảo giác",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        897,
+        926
+      ]
+    },
+    {
+      "text": "Đặc điểm triệu chứng\n Bệnh nhân nhìn/nghe thấy có nhiều người (đôi khi tổng cộng khoảng 8 người).\nThấy những người này đang nói chuyện với mình.",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        931,
+        1075
+      ]
+    }
+  ],
+  "31": [],
+  "32": [
+    {
+      "text": "dùng guaifenesin và furosemide 40 mg",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1482,
+        1518
+      ]
+    },
+    {
+      "text": "Khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        1651,
+        1658
+      ]
+    }
+  ],
+  "33": [
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        256,
+        263
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        362,
+        369
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        441,
+        448
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        582,
+        584
+      ]
+    },
+    {
+      "text": "sốt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        613,
+        616
+      ]
+    },
+    {
+      "text": "phù",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        623,
+        626
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        877,
+        884
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        886,
+        888
+      ]
+    },
+    {
+      "text": "sốt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        912,
+        915
+      ]
+    },
+    {
+      "text": "phù",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        917,
+        920
+      ]
+    },
+    {
+      "text": "được cho bumetanide 2mg iv",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1392,
+        1418
+      ]
+    },
+    {
+      "text": "được cho vancomycin 1 g",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1425,
+        1448
+      ]
+    },
+    {
+      "text": "được cho levofloxacin 750mg iv",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1458,
+        1488
+      ]
+    },
+    {
+      "text": "được cho aspirin 325mg",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1495,
+        1517
+      ]
+    },
+    {
+      "text": "được cho methylprednisolone 125mg iv",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1570,
+        1606
+      ]
+    }
+  ],
+  "34": [
+    {
+      "text": "Thời điểm khởi phát triệu chứng: 48 giờ qua",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        333,
+        376
+      ]
+    },
+    {
+      "text": "buồn nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        423,
+        431
+      ]
+    },
+    {
+      "text": "đau bụng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        438,
+        446
+      ]
+    },
+    {
+      "text": "buồn nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        519,
+        527
+      ]
+    },
+    {
+      "text": "nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        534,
+        537
+      ]
+    },
+    {
+      "text": "sốt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        557,
+        560
+      ]
+    },
+    {
+      "text": "đau bụng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        898,
+        906
+      ]
+    },
+    {
+      "text": "nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        979,
+        982
+      ]
+    },
+    {
+      "text": "sốt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1025,
+        1028
+      ]
+    }
+  ],
+  "35": [
+    {
+      "text": "Lý do nhập viện\n    - Toàn trạng suy kiệt  kể từ khi xuất viện\n    - ảo giác dai dẳng\n    - Lú lẫn ngày càng nặng\n    Thời điểm khởi phát triệu chứng: Cực kỳ yếu kể từ khi xuất viện",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        454,
+        635
+      ]
+    },
+    {
+      "text": "nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        873,
+        876
+      ]
+    },
+    {
+      "text": "Nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        884,
+        887
+      ]
+    }
+  ],
+  "36": [
+    {
+      "text": "dose decreased from 5mg bid",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        242,
+        269
+      ]
+    },
+    {
+      "text": "*   Lý do nhập viện: Suy thận ngày càng nặng\n    *   Thời điểm khởi phát triệu chứng: Muộn (creatinine  tăng cao)",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        365,
+        478
+      ]
+    },
+    {
+      "text": "*   Triệu chứng khi nhập viện: Suy thận ngày càng nặng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1240,
+        1294
+      ]
+    }
+  ],
+  "37": [],
+  "38": [
+    {
+      "text": "Lý do nhập viện: đau họng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        244,
+        269
+      ]
+    },
+    {
+      "text": "Thời điểm khởi phát triệu chứng: 5 ngày trước khi nhập viện",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        274,
+        333
+      ]
+    },
+    {
+      "text": "buồn nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        404,
+        412
+      ]
+    },
+    {
+      "text": "buồn nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        610,
+        618
+      ]
+    }
+  ],
+  "39": [
+    {
+      "text": "đau bụng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        37,
+        45
+      ]
+    },
+    {
+      "text": "Thời điểm khởi phát triệu chứng: vài ngày",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        53,
+        94
+      ]
+    },
+    {
+      "text": "đau bụng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        118,
+        126
+      ]
+    },
+    {
+      "text": "buồn nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        347,
+        355
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        356,
+        358
+      ]
+    },
+    {
+      "text": "nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        361,
+        364
+      ]
+    }
+  ],
+  "40": [
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        298,
+        300
+      ]
+    },
+    {
+      "text": "Thời điểm khởi phát triệu chứng: 1 tuần trước khi nhập viện",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        316,
+        375
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        407,
+        409
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        433,
+        440
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        449,
+        456
+      ]
+    },
+    {
+      "text": "mệt mỏi",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        476,
+        483
+      ]
+    },
+    {
+      "text": "mệt mỏi",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        490,
+        497
+      ]
+    },
+    {
+      "text": "sốt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        504,
+        507
+      ]
+    },
+    {
+      "text": "tiêu chảy",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        539,
+        548
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        668,
+        675
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        706,
+        713
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        743,
+        745
+      ]
+    },
+    {
+      "text": "sốt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        813,
+        816
+      ]
+    },
+    {
+      "text": "sốt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        826,
+        829
+      ]
+    },
+    {
+      "text": "tiêu chảy",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        848,
+        857
+      ]
+    },
+    {
+      "text": "đau ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        906,
+        914
+      ]
+    },
+    {
+      "text": "buồn nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        930,
+        938
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        987,
+        994
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1018,
+        1025
+      ]
+    }
+  ],
+  "41": [
+    {
+      "text": "Nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        726,
+        729
+      ]
+    },
+    {
+      "text": "nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        814,
+        817
+      ]
+    },
+    {
+      "text": "tiêu chảy",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        821,
+        830
+      ]
+    },
+    {
+      "text": "buồn nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        937,
+        945
+      ]
+    },
+    {
+      "text": "tiêu chảy",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        949,
+        958
+      ]
+    },
+    {
+      "text": "Nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1008,
+        1011
+      ]
+    },
+    {
+      "text": "Nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1068,
+        1071
+      ]
+    },
+    {
+      "text": "đau bụng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1115,
+        1123
+      ]
+    },
+    {
+      "text": "nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1127,
+        1130
+      ]
+    },
+    {
+      "text": "Nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1894,
+        1897
+      ]
+    }
+  ],
+  "42": [
+    {
+      "text": "phù",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        321,
+        324
+      ]
+    },
+    {
+      "text": "sốt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        365,
+        368
+      ]
+    },
+    {
+      "text": "phù",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        540,
+        543
+      ]
+    },
+    {
+      "text": "sốt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        562,
+        565
+      ]
+    }
+  ],
+  "43": [],
+  "44": [
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        144,
+        151
+      ]
+    },
+    {
+      "text": "phù",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        154,
+        157
+      ]
+    },
+    {
+      "text": "đau ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        169,
+        177
+      ]
+    },
+    {
+      "text": "Thời điểm khởi phát triệu chứng: bắt đầu từ tối qua",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        178,
+        229
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        465,
+        472
+      ]
+    },
+    {
+      "text": "phù",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        475,
+        478
+      ]
+    },
+    {
+      "text": "đau ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        490,
+        498
+      ]
+    },
+    {
+      "text": "mệt mỏi",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        501,
+        508
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        541,
+        543
+      ]
+    },
+    {
+      "text": "ngất xỉu",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHypothetical"
+      ],
+      "position": [
+        553,
+        561
+      ]
+    },
+    {
+      "text": "nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        643,
+        646
+      ]
+    },
+    {
+      "text": "đau ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        690,
+        698
+      ]
+    },
+    {
+      "text": "Nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        1154,
+        1157
+      ]
+    },
+    {
+      "text": "ngất xỉu",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        1208,
+        1216
+      ]
+    },
+    {
+      "text": "đánh trống ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1335,
+        1350
+      ]
+    },
+    {
+      "text": "chóng mặt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1352,
+        1361
+      ]
+    },
+    {
+      "text": "thêm 80mg po",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1427,
+        1439
+      ]
+    },
+    {
+      "text": "Nhận 80mg",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1710,
+        1719
+      ]
+    },
+    {
+      "text": "lasix iv",
+      "type": "THUỐC",
+      "candidates": [
+        "202991",
+        "1175648",
+        "1175647"
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1720,
+        1728
+      ]
+    },
+    {
+      "text": "Nhận 8mg",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1731,
+        1739
+      ]
+    },
+    {
+      "text": "Nhận 1mg",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1751,
+        1759
+      ]
+    },
+    {
+      "text": "Được cho po",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1771,
+        1782
+      ]
+    },
+    {
+      "text": "Được cho 10mg iv",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1796,
+        1812
+      ]
+    }
+  ],
+  "45": [
+    {
+      "text": "Lý do nhập viện: Thủ thuật điện chọn\n    Triệu chứng hiện tại: triệu chứng liên quan đến tai biến mạch máu não từ vùng này",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        275,
+        397
+      ]
+    },
+    {
+      "text": "hẹp khoảng 65%",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        580,
+        594
+      ]
+    },
+    {
+      "text": "tình trạng này bằng phẫu thuật nội mạch hóa động mạch cảnh",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        756,
+        814
+      ]
+    },
+    {
+      "text": "khoảng 65%",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        913,
+        923
+      ]
+    }
+  ],
+  "46": [
+    {
+      "text": "Triệu chứng hiện tại\n    - khó khăn với hạ huyết áp, không đặc hiệu\n    - khó kiểm soát huyết áp đáng kể\n    - đi khập khiễng cách quãng\n    Sự kiện trước khi nhập viện: chụp cắt lớp vi tính (ct) được thực hiện cho thấy tắc hẹp 80% động mạch thận trái L",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        173,
+        426
+      ]
+    }
+  ],
+  "47": [],
+  "48": [
+    {
+      "text": "Lý do nhập viện: Yếu nửa người trái",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        106,
+        141
+      ]
+    },
+    {
+      "text": "Thời điểm khởi phát triệu chứng: Hôm nay",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        146,
+        186
+      ]
+    },
+    {
+      "text": "khoảng 5 g",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1136,
+        1146
+      ]
+    },
+    {
+      "text": "Triệu chứng khi nhập viện\n    - Yếu nửa người trái\n    - cảm thấy yếu sức\n    - khó khăn khi cài cúc áo\n    - Khó kéo khóa quần\n    - Hơi vụng về\n    - tiểu tiện ra sàn\n    - khó khăn khi ra khỏi ghế tựa\n    - kéo lê chân trái\n    - Cánh tay trái lơ lửng\n    - khó khăn khi ước lượng vị trí ngồi xuống ghế\n    - khó khăn khi ăn\n    - cảm giác bất thường ở bên phải đầu",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1277,
+        1645
+      ]
+    },
+    {
+      "text": "Đặc điểm triệu chứng\n    - Vị trí: Nửa trái, bên phải đầu\n    - Mức độ nghiêm trọng: Không được chỉ định\n    - Thời gian: Khoảng 30 phút (đợt đầu tiên)\n    - Tần suất: 2 đợt hôm nay\n    - Lan tỏa: Không được chỉ định\n    - Các yếu tố làm trầm trọng thêm: Không được chỉ định\n    - Các yếu tố làm giảm nhẹ: Trở lại trạng thái bình thường\n    - Triệu chứng liên quan: khó khăn khi cài cúc áo, kéo khóa quần, vụng về, đi tiểu trên sàn, khó khăn khi ra khỏi ghế tựa, kéo lê chân trái, cánh tay trái lơ lửng, khó khăn khi ước lượng vị trí ngồi, khó khăn khi ăn, cảm giác bất thường bên phải đầu",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1650,
+        2239
+      ]
+    }
+  ],
+  "49": [
+    {
+      "text": "Lý do nhập viện",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        0,
+        15
+      ]
+    },
+    {
+      "text": "Táo bón",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        715,
+        722
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        1077,
+        1079
+      ]
+    }
+  ],
+  "50": [
+    {
+      "text": "albuterol nebs q4h",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        159,
+        177
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        246,
+        253
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        350,
+        352
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        388,
+        395
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        673,
+        680
+      ]
+    },
+    {
+      "text": "tiêu chảy",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        845,
+        854
+      ]
+    },
+    {
+      "text": "mất ngủ",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1197,
+        1204
+      ]
+    },
+    {
+      "text": "Khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        1251,
+        1258
+      ]
+    },
+    {
+      "text": "Ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        1303,
+        1305
+      ]
+    }
+  ],
+  "51": [
+    {
+      "text": "Thời điểm khởi phát triệu chứng: 5 ngày qua",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        130,
+        173
+      ]
+    },
+    {
+      "text": "mệt mỏi",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        284,
+        291
+      ]
+    },
+    {
+      "text": "tiêu chảy",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        298,
+        307
+      ]
+    },
+    {
+      "text": "tiêu chảy",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        339,
+        348
+      ]
+    },
+    {
+      "text": "tiêu chảy",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        359,
+        368
+      ]
+    },
+    {
+      "text": "tiêu chảy",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        418,
+        427
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        469,
+        471
+      ]
+    },
+    {
+      "text": "Được bổ sung kali 80mEq",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        601,
+        624
+      ]
+    },
+    {
+      "text": "trong 24 g",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        625,
+        635
+      ]
+    },
+    {
+      "text": "Nhận 40meq po",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1131,
+        1144
+      ]
+    },
+    {
+      "text": "Nhận 40meq iv",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1153,
+        1166
+      ]
+    }
+  ],
+  "52": [
+    {
+      "text": "Thời điểm khởi phát triệu chứng: Đêm trước khi nhập viện",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        318,
+        374
+      ]
+    },
+    {
+      "text": "sốt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        413,
+        416
+      ]
+    },
+    {
+      "text": "sốt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        426,
+        429
+      ]
+    }
+  ],
+  "53": [
+    {
+      "text": "Thời điểm khởi phát triệu chứng\n    - Thời gian khởi phát: 14 giờ\n    - Khởi phát cấp tính hay từ từ: Cấp tính",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        480,
+        590
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        679,
+        686
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        952,
+        959
+      ]
+    }
+  ],
+  "54": [
+    {
+      "text": "Lý do nhập viện: Không có lý do khám bệnh chính",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        380,
+        427
+      ]
+    },
+    {
+      "text": "Triệu chứng khi nhập viện\n- thiếu máu\n- phân và máu trong trực tràng (thỉnh thoảng)\n- viêm phổi thuỳ, không đặc hiệu\n- rung cuống nhĩ với đáp ứng thất nhanh\n- suy giảm huyết động\n- rối loạn cân bằng kiềm toan phối hợp\n- sưng, sưng nhẹ, đau nhẹ ở mắt cá chân trái (3 ngày)",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1605,
+        1876
+      ]
+    }
+  ],
+  "55": [
+    {
+      "text": "sốt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        42,
+        45
+      ]
+    },
+    {
+      "text": "sốt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isFamily"
+      ],
+      "position": [
+        87,
+        90
+      ]
+    }
+  ],
+  "56": [
+    {
+      "text": "Lý do nhập viện: xét nghiệm gắng sức bất thường\nThời điểm khởi phát triệu chứng: Hôm qua (không rõ ngày cụ thể)",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        155,
+        266
+      ]
+    },
+    {
+      "text": "chóng mặt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isFamily"
+      ],
+      "position": [
+        325,
+        334
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isFamily"
+      ],
+      "position": [
+        337,
+        344
+      ]
+    },
+    {
+      "text": "Ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        552,
+        554
+      ]
+    },
+    {
+      "text": "chóng mặt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        637,
+        646
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        648,
+        655
+      ]
+    },
+    {
+      "text": "SpO2 100%",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        981,
+        990
+      ]
+    },
+    {
+      "text": "độ bão hòa oxy 100%",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1091,
+        1110
+      ]
+    }
+  ],
+  "57": [
+    {
+      "text": "Lý do nhập viện: bệnh rễ thần kinh tuỷ sống ở ngón tay cái",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        57,
+        115
+      ]
+    },
+    {
+      "text": "Thời điểm khởi phát triệu chứng: vài năm\n    Triệu chứng hiện tại: bệnh rễ thần kinh tuỷ sống ở ngón tay cái",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        120,
+        228
+      ]
+    }
+  ],
+  "58": [
+    {
+      "text": "Lý do nhập viện\n    - yếu sức nửa người bên phải\n    - tình trạng tri giác giảm sút\n    - nhìn song thị",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        128,
+        231
+      ]
+    },
+    {
+      "text": "Thời điểm khởi phát triệu chứng\n    - Thời gian: khoảng 11:00 sáng\n    - Khởi phát cấp tính hay từ từ: Không ghi rõ",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        236,
+        351
+      ]
+    },
+    {
+      "text": "mệt mỏi",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1466,
+        1473
+      ]
+    },
+    {
+      "text": "mệt mỏi",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1772,
+        1779
+      ]
+    }
+  ],
+  "59": [
+    {
+      "text": "Lý do nhập viện: đau đầu kéo dài kèm theo mờ mắt\n    Thời điểm khởi phát triệu chứng: nhìn mờ tiến triển trong 2 tuần qua",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        686,
+        807
+      ]
+    },
+    {
+      "text": "Triệu chứng hiện tại\n    - đau đầu kéo dài\n    - nhìn mờ ở cả hai mắt, bên trái nặng hơn bên phải\n    -  cơn  đau đầu nhiều hơn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1384,
+        1511
+      ]
+    },
+    {
+      "text": "Đặc điểm triệu chứng\n    - nhìn mờ: tiến triển trong 2 tuần qua, bên trái nặng hơn bên phải\n    - đau đầu: nhiều hơn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1516,
+        1632
+      ]
+    }
+  ],
+  "60": [
+    {
+      "text": "Triệu chứng hiện tại\n    - triệu chứng trào ngược",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        501,
+        550
+      ]
+    }
+  ],
+  "61": [
+    {
+      "text": "Lý do nhập viện: Tái khám vì đau đầu gối phải",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        173,
+        218
+      ]
+    },
+    {
+      "text": "Thời điểm khởi phát triệu chứng\n    - Thời gian khởi phát: cách đây vài tháng (đối với lần khám  trước)\n    - Khởi phát cấp tính hay dần dần: Không ghi rõ",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        223,
+        377
+      ]
+    },
+    {
+      "text": "Triệu chứng hiện tại: đau đầu gối phải",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        587,
+        625
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        844,
+        846
+      ]
+    }
+  ],
+  "62": [
+    {
+      "text": "Lý do nhập viện:loét mới ở ngón chân út bên phải",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        188,
+        236
+      ]
+    },
+    {
+      "text": "Triệu chứng hiện tại\n    - loét đau\n    - loét đỏ\n    - loét sưng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        241,
+        306
+      ]
+    }
+  ],
+  "63": [
+    {
+      "text": "đau bụng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        230,
+        238
+      ]
+    },
+    {
+      "text": "đau bụng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        743,
+        751
+      ]
+    },
+    {
+      "text": "táo bón",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        758,
+        765
+      ]
+    },
+    {
+      "text": "buồn nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        772,
+        780
+      ]
+    },
+    {
+      "text": "buồn nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        933,
+        941
+      ]
+    }
+  ],
+  "64": [
+    {
+      "text": "táo bón",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        508,
+        515
+      ]
+    },
+    {
+      "text": "đau bụng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        741,
+        749
+      ]
+    },
+    {
+      "text": "táo bón",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        878,
+        885
+      ]
+    },
+    {
+      "text": "sốt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        958,
+        961
+      ]
+    },
+    {
+      "text": "chóng mặt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        974,
+        983
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        996,
+        998
+      ]
+    },
+    {
+      "text": "Đặc điểm triệu chứng\n    - Vị trí: vùng bụng dưới (đau RLQLLQ)\n    - Mức độ nghiêm trọng: Tồi tệ hơn\n    - Thời gian: 1 ngày\n    - Các triệu chứng liên quan: đổ mồ hôi",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1048,
+        1215
+      ]
+    }
+  ],
+  "65": [
+    {
+      "text": "Lý do nhập viện: 3 ngày đại tiện ra máu đỏ tươi gián đoạn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        75,
+        132
+      ]
+    },
+    {
+      "text": "Thời điểm khởi phát triệu chứng: 3 ngày",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        133,
+        172
+      ]
+    },
+    {
+      "text": "chóng mặt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        232,
+        241
+      ]
+    },
+    {
+      "text": "chóng mặt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        334,
+        343
+      ]
+    }
+  ],
+  "66": [
+    {
+      "text": "Lý do nhập viện: đau bàn chân phải",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        290,
+        324
+      ]
+    },
+    {
+      "text": "Các triệu chứng hiện tại\n    - đau bàn chân phải\n    - mất thăng bằng khi đi lại",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        329,
+        409
+      ]
+    }
+  ],
+  "67": [
+    {
+      "text": "Triệu chứng hiện tại: đau vùng hạ sườn phải",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        134,
+        177
+      ]
+    }
+  ],
+  "68": [
+    {
+      "text": "Lý do nhập viện: yếu",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        158,
+        178
+      ]
+    },
+    {
+      "text": "Các triệu chứng hiện tại: yếu",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        183,
+        212
+      ]
+    },
+    {
+      "text": "Đặc điểm triệu chứng: Vị trí: đáng chú ý nhất ở ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        217,
+        269
+      ]
+    }
+  ],
+  "69": [
+    {
+      "text": "mệt mỏi",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        322,
+        329
+      ]
+    }
+  ],
+  "70": [
+    {
+      "text": "liều cao acetaminophen 500mg",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        162,
+        190
+      ]
+    },
+    {
+      "text": "đau bụng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        376,
+        384
+      ]
+    },
+    {
+      "text": "đau bụng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        449,
+        457
+      ]
+    },
+    {
+      "text": "đau bụng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        491,
+        499
+      ]
+    },
+    {
+      "text": "đau bụng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        775,
+        783
+      ]
+    },
+    {
+      "text": "đau bụng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        801,
+        809
+      ]
+    },
+    {
+      "text": "mệt mỏi",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        821,
+        828
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        851,
+        858
+      ]
+    },
+    {
+      "text": "buồn nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1016,
+        1024
+      ]
+    },
+    {
+      "text": "nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1036,
+        1039
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        1107,
+        1109
+      ]
+    }
+  ],
+  "71": [
+    {
+      "text": "mệt mỏi",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        342,
+        349
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        352,
+        359
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        379,
+        381
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        387,
+        389
+      ]
+    },
+    {
+      "text": "phù",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        397,
+        400
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        419,
+        426
+      ]
+    },
+    {
+      "text": "phù",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        437,
+        440
+      ]
+    },
+    {
+      "text": "mệt mỏi",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        592,
+        599
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        603,
+        610
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        630,
+        632
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        638,
+        640
+      ]
+    },
+    {
+      "text": "phù",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        648,
+        651
+      ]
+    }
+  ],
+  "72": [
+    {
+      "text": "Thời điểm khởi phát triệu chứng: giữa",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        53,
+        90
+      ]
+    },
+    {
+      "text": "Các triệu chứng hiện tại\n- vàng da không đau\n- ngứa",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        91,
+        142
+      ]
+    }
+  ],
+  "73": [
+    {
+      "text": "aspirin 81mg",
+      "type": "THUỐC",
+      "candidates": [
+        "243670",
+        "315431",
+        "1189780"
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        760,
+        772
+      ]
+    },
+    {
+      "text": "metoprolol succinate 100mg daily",
+      "type": "THUỐC",
+      "candidates": [
+        "866414",
+        "2047766",
+        "1370483"
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        860,
+        892
+      ]
+    },
+    {
+      "text": "lasix 40mg daily",
+      "type": "THUỐC",
+      "candidates": [
+        "200809",
+        "565458"
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        911,
+        927
+      ]
+    },
+    {
+      "text": "atorvastatin 80mg daily",
+      "type": "THUỐC",
+      "candidates": [
+        "259255",
+        "262095",
+        "404011"
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        946,
+        969
+      ]
+    },
+    {
+      "text": "lisinopril 2.5mg daily",
+      "type": "THUỐC",
+      "candidates": [
+        "311353",
+        "104375",
+        "316152"
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        986,
+        1008
+      ]
+    },
+    {
+      "text": "ranexa 500mg daily",
+      "type": "THUỐC",
+      "candidates": [
+        "616493",
+        "860738"
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1025,
+        1043
+      ]
+    },
+    {
+      "text": "đau ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1103,
+        1111
+      ]
+    },
+    {
+      "text": "đau ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1410,
+        1418
+      ]
+    }
+  ],
+  "74": [
+    {
+      "text": "đau bụng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        360,
+        368
+      ]
+    },
+    {
+      "text": "Thời điểm khởi phát triệu chứng: 7 ngày",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        378,
+        417
+      ]
+    },
+    {
+      "text": "đau bụng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        700,
+        708
+      ]
+    }
+  ],
+  "75": [
+    {
+      "text": "đau ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        1032,
+        1040
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        1099,
+        1106
+      ]
+    },
+    {
+      "text": "đau ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        1400,
+        1408
+      ]
+    }
+  ],
+  "76": [
+    {
+      "text": "đau ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        463,
+        471
+      ]
+    }
+  ],
+  "77": [
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        821,
+        823
+      ]
+    },
+    {
+      "text": "lo âu",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        1100,
+        1105
+      ]
+    },
+    {
+      "text": "- Hiện đang được chăm sóc tâm thần bởi bác sĩ",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        1185,
+        1230
+      ]
+    }
+  ],
+  "78": [
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        260,
+        267
+      ]
+    },
+    {
+      "text": "đánh trống ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        328,
+        343
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        406,
+        413
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        446,
+        448
+      ]
+    },
+    {
+      "text": "oxy dưới 90 %",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        532,
+        545
+      ]
+    }
+  ],
+  "79": [],
+  "80": [
+    {
+      "text": "Triệu chứng lúc vào: chấn thương gãy xương sườn trái",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        283,
+        335
+      ]
+    }
+  ],
+  "81": [
+    {
+      "text": "Lý do nhập viện: vết thương thấu bụng giữa bên phải",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        20,
+        71
+      ]
+    },
+    {
+      "text": "Triệu chứng khi đến:\n- vết thương thấu bụng giữa bên phải\nTình trạng ngay trước khi nhập viện: ổn định về mặt huyết động khi đến",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        72,
+        200
+      ]
+    }
+  ],
+  "82": [
+    {
+      "text": "bằng xạ trị cấy hạt \n    Tiền sử phẫu thuật / thủ thuật\n    - Phẫu thuật cắt bỏ u dây thần kinh số VIII \n    - Đặt shunt động tĩnh mạch (AVF) ở tay phải (RUE AVF)\n    - Sinh thiết tuyến tiền liệt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        148,
+        343
+      ]
+    },
+    {
+      "text": "mệt mỏi",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        387,
+        394
+      ]
+    },
+    {
+      "text": "mệt mỏi",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isFamily"
+      ],
+      "position": [
+        448,
+        455
+      ]
+    },
+    {
+      "text": "khó thở",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        534,
+        541
+      ]
+    },
+    {
+      "text": "buồn nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        568,
+        576
+      ]
+    },
+    {
+      "text": "nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        581,
+        584
+      ]
+    },
+    {
+      "text": "lên 6.3 mg",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        846,
+        856
+      ]
+    },
+    {
+      "text": "lên 91 mg",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        900,
+        909
+      ]
+    },
+    {
+      "text": "bắt đầu chạy thận nhân tạo (HD)",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        1219,
+        1250
+      ]
+    }
+  ],
+  "83": [
+    {
+      "text": "Dùng lợi tiểu, có cải thiện cải thiện triệu chứng tốt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        359,
+        412
+      ]
+    }
+  ],
+  "84": [
+    {
+      "text": "mệt mỏi",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        311,
+        318
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        320,
+        322
+      ]
+    },
+    {
+      "text": "Ceftriaxone 1 g",
+      "type": "THUỐC",
+      "candidates": [
+        "309090",
+        "1665020",
+        "337560"
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1291,
+        1306
+      ]
+    }
+  ],
+  "85": [],
+  "86": [],
+  "87": [
+    {
+      "text": "Lý do nhập viện:  tổn thương chi dưới do tự tử không thành\n    Theo lời người nhà kể lại bệnh nhân bị sốc khi chia tay bạn trai cũ, bị bạn bè trêu chọc, buồn chán, uống nhiều rượu,hút cần sa. Sau đó lái xe đến một cây cầu, nhảy từ trên cầu xuống  bệnh nhân nhảy cầu tự tử, sau đó tổn thương chi dưới , vào viện",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        161,
+        471
+      ]
+    },
+    {
+      "text": ":\n Đã phẫu thuật cắt cụt chân trái trên gối và chân phải dưới gối.\nDùng kháng sinh tĩnh mạch.\n\nCó ý định điều trị và lắp chân giả\nBệnh nhân suy nghĩ tích cực nghĩ cho tương lai ( nói rằng uộc sống không dừng lại vì một chấn thương từ bên ngoài)\n Diễn biến ổn định và được chuyển vào khoa tâm thần nội trú.",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        871,
+        1176
+      ]
+    }
+  ],
+  "88": [
+    {
+      "text": "Phù",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        453,
+        456
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        470,
+        472
+      ]
+    },
+    {
+      "text": "phù",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        699,
+        702
+      ]
+    },
+    {
+      "text": "phù",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        718,
+        721
+      ]
+    },
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        730,
+        732
+      ]
+    }
+  ],
+  "89": [
+    {
+      "text": "theo đơn\n    - octreotide\n    - flagyl, chăm sóc vết thương tại chỗ, nhịn ăn đường miệng, dinh dưỡng tĩnh mạch",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        191,
+        301
+      ]
+    },
+    {
+      "text": "Lý do nhập viện: Tuột sonde dẫn lưu ổ bụng\n    Theo lời bệnh nhân kể, bệnh nhân đã phẫu thuật bóc tách u nội tiết từ thân tuỵ gây biến chứng rò ống tuỵ mật. Sử dụng ống dẫn lưu tại chỗ dò (  do ERCP không thể qua được chỗ gián đoạn ống dẫn, đặt stent vào ống dẫn tụy gần, không làm giảm đáng kể lượng dịch rò) ,  hậu phẫu  bệnh nhân bị nhiễm Clostridioides difficile, và nhiễm trùng vết mổổ đã được điều trị bằng flagyl, chăm sóc vết thương tại chỗ, sau 23 ngày điều trị thì xuất viện.  Đêm trước ngày vào viện bệnh nhân bị tuột ống sonde dẫn lưu ổ bụng. Đến sáng hôm sau xuất hiện chân sonde dẫn lưu sưng nề, đỏ, chồng bệnh nhân thấy mũi chỉ khâu da cố định ống dẫn bị tuột ra, ống dẫn chỉ bị tuột ra khoảng 2,54 cm, xử trí cố định ống dẫn bằng băng dính và đến khám tại phòng cấp cứu.",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        329,
+        1115
+      ]
+    }
+  ],
+  "90": [
+    {
+      "text": "Triệu chứng hiện tại\n- giọng khàn\n- tổn thương dây thanh quản thật sự",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isFamily"
+      ],
+      "position": [
+        77,
+        146
+      ]
+    }
+  ],
+  "91": [
+    {
+      "text": "coumadin 3.0 mg",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        401,
+        416
+      ]
+    }
+  ],
+  "92": [
+    {
+      "text": "Lý do nhập viện: theo dõi đại tràng giãn\n    - Vào đợt kiểm tra sức khoẻ định kỳ sau ngã đang hồi phục phát hiện xét nghiệm máu có tăng bạch cầuNgày nay xuất hiện ý thúc chậm hơn, đã chụp CT ở tuyến trước chưa phát hiện bất thường trên phim chụp,  vào viện\n    Tình trạng vào Khoa Cấp cứu.",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        112,
+        401
+      ]
+    }
+  ],
+  "93": [],
+  "94": [
+    {
+      "text": "đau bụng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        181,
+        189
+      ]
+    },
+    {
+      "text": "đau bụng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        295,
+        303
+      ]
+    },
+    {
+      "text": "buồn nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        318,
+        326
+      ]
+    },
+    {
+      "text": "nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        328,
+        331
+      ]
+    },
+    {
+      "text": "đau bụng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        413,
+        421
+      ]
+    },
+    {
+      "text": "buồn nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        451,
+        459
+      ]
+    },
+    {
+      "text": "nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        461,
+        464
+      ]
+    },
+    {
+      "text": "tại bệnh viện:\n    - compazine và alevenhưng vẫn còn đau\n    - Uống  morphineoral và  lorazepam đỡ đau  (có thể ngủ",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        743,
+        858
+      ]
+    }
+  ],
+  "95": [
+    {
+      "text": "đau bụng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        207,
+        215
+      ]
+    }
+  ],
+  "96": [
+    {
+      "text": "nhiễm khuẩn đường tiết niệu",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        341,
+        368
+      ]
+    },
+    {
+      "text": "sốt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        407,
+        410
+      ]
+    },
+    {
+      "text": "sốt",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        822,
+        825
+      ]
+    }
+  ],
+  "97": [
+    {
+      "text": "đau ngực",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        567,
+        575
+      ]
+    },
+    {
+      "text": "đau bụng",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        586,
+        594
+      ]
+    },
+    {
+      "text": "kali là 6.6 mmol",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isNegated"
+      ],
+      "position": [
+        730,
+        746
+      ]
+    },
+    {
+      "text": "creatinin là 1.9 mmol",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        755,
+        776
+      ]
+    },
+    {
+      "text": "tiểu cầu là 81 G",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        785,
+        801
+      ]
+    },
+    {
+      "text": "bạch cầu là 10.9 G",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        810,
+        828
+      ]
+    }
+  ],
+  "98": [
+    {
+      "text": "ho",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        165,
+        167
+      ]
+    }
+  ],
+  "99": [
+    {
+      "text": "buồn nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        206,
+        214
+      ]
+    },
+    {
+      "text": "táo bón",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        233,
+        240
+      ]
+    },
+    {
+      "text": "buồn nôn",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        272,
+        280
+      ]
+    },
+    {
+      "text": "táo bón",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        306,
+        313
+      ]
+    }
+  ],
+  "100": [
+    {
+      "text": "Lý do nhập viện: đến khám vì tăng calci máu",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        246,
+        289
+      ]
+    },
+    {
+      "text": "Triệu chứng hiện tại: tăng calci máu",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [],
+      "position": [
+        294,
+        330
+      ]
+    },
+    {
+      "text": "đã dùng Laxis 20mg",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1433,
+        1451
+      ]
+    },
+    {
+      "text": "Truyền  dịch Natriclori 0.9 %",
+      "type": "THUỐC",
+      "candidates": [],
+      "assertions": [
+        "isHistorical"
+      ],
+      "position": [
+        1473,
+        1502
+      ]
+    }
+  ]
+}

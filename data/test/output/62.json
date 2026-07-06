@@ -1,0 +1,24 @@
+[
+  {
+    "text": "Lý do nhập viện:loét mới ở ngón chân út bên phải",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      188,
+      236
+    ]
+  },
+  {
+    "text": "Triệu chứng hiện tại\n    - loét đau\n    - loét đỏ\n    - loét sưng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      241,
+      306
+    ]
+  }
+]

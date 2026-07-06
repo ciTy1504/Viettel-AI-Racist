@@ -1,0 +1,13 @@
+[
+  {
+    "text": "Lý do nhập viện: đến khám vì sau cân sau phẫu thuật",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      90,
+      141
+    ]
+  }
+]

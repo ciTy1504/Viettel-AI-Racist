@@ -1,0 +1,51 @@
+[
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      135,
+      138
+    ]
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      622,
+      625
+    ]
+  },
+  {
+    "text": "mệt mỏi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ],
+    "position": [
+      686,
+      693
+    ]
+  },
+  {
+    "text": "ho",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ],
+    "position": [
+      696,
+      698
+    ]
+  },
+  {
+    "text": "- Đã thực hiện siêu âm vùng cổ phải  cho có kết qủa là  áp xe/viêm khớp nhiễm trùng\n- Dẫn lưu dịch\n- x-quang đề nghị mri\n- nhập viện tại  khoa cấp cứu để điều trị thêm, dùng kháng sinh tĩnh mạch và mri",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      867,
+      1068
+    ]
+  }
+]

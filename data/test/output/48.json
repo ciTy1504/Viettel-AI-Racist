@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Lý do nhập viện: Yếu nửa người trái",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      106,
+      141
+    ]
+  },
+  {
+    "text": "Thời điểm khởi phát triệu chứng: Hôm nay",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      146,
+      186
+    ]
+  },
+  {
+    "text": "khoảng 5 g",
+    "type": "THUỐC",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      1136,
+      1146
+    ]
+  },
+  {
+    "text": "Triệu chứng khi nhập viện\n    - Yếu nửa người trái\n    - cảm thấy yếu sức\n    - khó khăn khi cài cúc áo\n    - Khó kéo khóa quần\n    - Hơi vụng về\n    - tiểu tiện ra sàn\n    - khó khăn khi ra khỏi ghế tựa\n    - kéo lê chân trái\n    - Cánh tay trái lơ lửng\n    - khó khăn khi ước lượng vị trí ngồi xuống ghế\n    - khó khăn khi ăn\n    - cảm giác bất thường ở bên phải đầu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      1277,
+      1645
+    ]
+  },
+  {
+    "text": "Đặc điểm triệu chứng\n    - Vị trí: Nửa trái, bên phải đầu\n    - Mức độ nghiêm trọng: Không được chỉ định\n    - Thời gian: Khoảng 30 phút (đợt đầu tiên)\n    - Tần suất: 2 đợt hôm nay\n    - Lan tỏa: Không được chỉ định\n    - Các yếu tố làm trầm trọng thêm: Không được chỉ định\n    - Các yếu tố làm giảm nhẹ: Trở lại trạng thái bình thường\n    - Triệu chứng liên quan: khó khăn khi cài cúc áo, kéo khóa quần, vụng về, đi tiểu trên sàn, khó khăn khi ra khỏi ghế tựa, kéo lê chân trái, cánh tay trái lơ lửng, khó khăn khi ước lượng vị trí ngồi, khó khăn khi ăn, cảm giác bất thường bên phải đầu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1650,
+      2239
+    ]
+  }
+]

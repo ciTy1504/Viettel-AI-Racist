@@ -1,0 +1,68 @@
+[
+  {
+    "text": "đau ngực",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      567,
+      575
+    ]
+  },
+  {
+    "text": "đau bụng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      586,
+      594
+    ]
+  },
+  {
+    "text": "kali là 6.6 mmol",
+    "type": "THUỐC",
+    "candidates": [],
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      730,
+      746
+    ]
+  },
+  {
+    "text": "creatinin là 1.9 mmol",
+    "type": "THUỐC",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      755,
+      776
+    ]
+  },
+  {
+    "text": "tiểu cầu là 81 G",
+    "type": "THUỐC",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      785,
+      801
+    ]
+  },
+  {
+    "text": "bạch cầu là 10.9 G",
+    "type": "THUỐC",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      810,
+      828
+    ]
+  }
+]

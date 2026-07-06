@@ -1,0 +1,20 @@
+[
+  {
+    "text": "Lý do nhập viện: vết thương thấu bụng giữa bên phải",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      20,
+      71
+    ]
+  },
+  {
+    "text": "Triệu chứng khi đến:\n- vết thương thấu bụng giữa bên phải\nTình trạng ngay trước khi nhập viện: ổn định về mặt huyết động khi đến",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      72,
+      200
+    ]
+  }
+]

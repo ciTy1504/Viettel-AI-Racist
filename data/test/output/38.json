@@ -1,0 +1,46 @@
+[
+  {
+    "text": "Lý do nhập viện: đau họng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      244,
+      269
+    ]
+  },
+  {
+    "text": "Thời điểm khởi phát triệu chứng: 5 ngày trước khi nhập viện",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      274,
+      333
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      404,
+      412
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      610,
+      618
+    ]
+  }
+]

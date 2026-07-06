@@ -1,0 +1,35 @@
+[
+  {
+    "text": "Thời điểm khởi phát triệu chứng\n    - Thời gian khởi phát: 14 giờ\n    - Khởi phát cấp tính hay từ từ: Cấp tính",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      480,
+      590
+    ]
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      679,
+      686
+    ]
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      952,
+      959
+    ]
+  }
+]

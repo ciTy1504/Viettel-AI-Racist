@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Giai đoạn IV",
+    "type": "THUỐC",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      66,
+      78
+    ]
+  },
+  {
+    "text": "Lý do nhập viện: đau bẹn trái",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      447,
+      476
+    ]
+  },
+  {
+    "text": "Thời điểm khởi phát triệu chứng: 3 ngày trước",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      481,
+      526
+    ]
+  },
+  {
+    "text": "Triệu chứng hiện tại: đau bẹn trái",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      686,
+      720
+    ]
+  },
+  {
+    "text": "ho",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1011,
+      1013
+    ]
+  }
+]
